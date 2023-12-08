@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: default
 ---
+~~Thứ 5, 08/12/2023~~
 
 # Burp Suite: Khái niệm cơ bản
 
 ### Bảng nội dung
 
-*   [Burp Suite #1: Khái niệm cơ bản](./)
+*   [Burp Suite #1: Khái niệm cơ bản](./1-basics)
 *   Burp Suite #2: 
 *   Burp Suite #3: 
 
