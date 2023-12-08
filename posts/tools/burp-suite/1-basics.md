@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-~~Thứ 5, 08/12/2023~~
+_Thứ 5, 08/12/2023_
 
 # Burp Suite: Khái niệm cơ bản
 
