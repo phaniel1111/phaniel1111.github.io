@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[back](../../)
+[back](../)
 
 There should be whitespace between paragraphs.
 
