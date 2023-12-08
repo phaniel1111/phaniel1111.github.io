@@ -1,4 +1,6 @@
-_Thứ 6, 8/12/2023_
+---
+layout: post
+---
 
 # Burp Suite: Khái niệm cơ bản
 
