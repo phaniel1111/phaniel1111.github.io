@@ -15,8 +15,8 @@ $container-max-width: 1000px;
 }
 
 @font-face {
-  font-family: 'MonaspaceNeon';
-  src: url('../assets/fonts/MonaspaceNeon-Regular.otf') format("opentype");
+  font-family: 'MonaspaceArgon';
+  src: url('../assets/fonts/MonaspaceArgon-Regular.otf') format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -28,7 +28,7 @@ body {
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
-  font-family: MonaspaceNeon, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: MonaspaceArgon, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
@@ -71,7 +71,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: MonaspaceNeon, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: MonaspaceArgon, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -114,7 +114,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: MonaspaceNeon, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: MonaspaceArgon, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
